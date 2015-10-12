@@ -1,0 +1,14 @@
+Temp
+obj
+Build
+Library
+*.blend1
+*.blend2
+_ReSharper*
+*.sln
+*.userprefs
+*.csproj
+*.pidb
+*.unityproj
+*.suo
+*.user
